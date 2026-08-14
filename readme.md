@@ -30,4 +30,10 @@ Add the `width` attribute to the `video` element with a value of `640`.
 ### Step 4  
 The `loop` attribute will restart the video once playback is completed. Think of an internet meme that repeats playback. Omitting the `loop` attribute will make the video play once.  
 The `loop` attribute is a boolean attribute and does not need a value.  
-Add the video `loop` attribute to the `video` element.  
+Add the `loop` attribute to the `video` element.  
+
+### Step 5  
+The `controls` attribute provides playback controls including play/pause, rewind, and volume control for the `video` element.  
+The `controls` attribute is a boolean attribute and does not need a value.  
+Add the `controls` attribute to the `video` element.  
+Now you should see the `video` element displayed on the page.  
