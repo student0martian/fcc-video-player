@@ -86,3 +86,9 @@ Ogg is a digital multimedia container format designed to provide for efficient s
 Below your second `source` element, add a third
 `source` element and give it a `src` attribute with the value `https://cdn.freecodecamp.org/curriculum/labs/mapmethod.ogg` and a `type` attribute with the value `video/ogg`.  
 
+### Step 13  
+The last `source` element you will add will be for the `video/quicktime` MIME type.  
+QuickTime is an extensible multimedia architecture created by Apple, which supports playing, streaming, encoding, and transcoding a variety of digital media formats. Though it is not as popular as the MP4 format, you may need it for legacy application support.  
+Below your third `source` element, add a fourth `source` element and give it a `src` attribute with the value `https://cdn.freecodecamp.org/curriculum/labs/mapmethod.mov` and `type` attribute with the value `video/quicktime`.  
+
+Congratulations! You completed the HTML Video Player Workshop.  
