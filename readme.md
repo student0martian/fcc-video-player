@@ -1,5 +1,7 @@
 # Build an HTML Video Player  
 
+Exercises are based on the [freeCodeCamp.org](https://freecodecamp.org) curriculum. All solutions are my own work.  
+
 ### Step 1  
 In this workshop, you will build an HTML video player. The HTML boilerplate has been provided for you.   
 ```html
@@ -92,3 +94,6 @@ QuickTime is an extensible multimedia architecture created by Apple, which suppo
 Below your third `source` element, add a fourth `source` element and give it a `src` attribute with the value `https://cdn.freecodecamp.org/curriculum/labs/mapmethod.mov` and `type` attribute with the value `video/quicktime`.  
 
 Congratulations! You completed the HTML Video Player Workshop.  
+
+
+[*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
