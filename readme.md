@@ -93,7 +93,11 @@ The last `source` element you will add will be for the `video/quicktime` MIME ty
 QuickTime is an extensible multimedia architecture created by Apple, which supports playing, streaming, encoding, and transcoding a variety of digital media formats. Though it is not as popular as the MP4 format, you may need it for legacy application support.  
 Below your third `source` element, add a fourth `source` element and give it a `src` attribute with the value `https://cdn.freecodecamp.org/curriculum/labs/mapmethod.mov` and `type` attribute with the value `video/quicktime`.  
 
-Congratulations! You completed the HTML Video Player Workshop.  
+**Congratulations! You completed the HTML Video Player Workshop.**  
 
-
+[Click the link to see my work https://student0martian.github.io/fcc-video-player/](https://student0martian.github.io/fcc-video-player/)  
+  
+  
+  
+  
 [*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
